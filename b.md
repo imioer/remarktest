@@ -1,3 +1,9 @@
+---
+layout: presentation
+title: Default Presentation
+permalink: /default-presentation/
+---
+
 class: center, middle
 # Test
 
@@ -14,6 +20,9 @@ class: center
 --
 .right-column[
   Nastavak desnog
+]
+--
+.right-column[
   ![](https://avatars.githubusercontent.com/u/106514153?s=48&v=4)
 ]
 
