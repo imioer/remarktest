@@ -10,3 +10,13 @@ First statement
 .right-column[
 Second statement
 ]
+
+# Slajd 2
+
+* jedan
+
+--
+* dva
+
+--
+* tri
