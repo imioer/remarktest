@@ -3,6 +3,7 @@ class: center, middle
 
 ---
 layout: false
+
 .left-column[
 ## My heading 1
 ]
