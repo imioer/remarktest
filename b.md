@@ -5,15 +5,15 @@ class: center, middle
 layout: false
 class: split-50
 
-.column[
-## My heading 1
+.left-column[
+## Levi deo
 ]
-.column[
-First statement 
+.right-column[
+## First statement 
 ]
 --
-.column[
-Second statement
+.right-column[
+## Second statement
 ]
 
 ---
