@@ -14,6 +14,7 @@ class: center
 --
 .right-column[
   Nastavak desnog
+  ![](https://avatars.githubusercontent.com/u/106514153?s=48&v=4)
 ]
 
 ---
