@@ -1,34 +1,12 @@
 ---
-title: "Title"
-author: "Myself"
-date: "`r format(Sys.Date(), '%d.%m.%Y')`"
-output:
-  xaringan::moon_reader:
-    css: ["default"]
-    nature:
-      highlightStyle: dracula
-      highlightLines: true
-      countIncrementalSlides: false
----
-
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-```
-
+layout: false
 .left-column[
-  ## Left column title
+## My heading 1
 ]
 .right-column[
- A whole sentence
-
-+ one `Markdown` bullet point
-{{content}}
-
+First statement 
 ]
-
 --
-
-+ a second bullet point
-{{content}}
-
---
+.right-column[
+Second statement
+]
