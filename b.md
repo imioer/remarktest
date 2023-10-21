@@ -3,15 +3,16 @@ class: center, middle
 
 ---
 layout: false
+class: split-50
 
-.left-column[
+.column[
 ## My heading 1
 ]
-.right-column[
+.column[
 First statement 
 ]
 --
-.right-column[
+.column[
 Second statement
 ]
 
