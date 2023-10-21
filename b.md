@@ -1,3 +1,4 @@
+class: center, middle
 # Test
 
 ---
@@ -12,6 +13,8 @@ First statement
 .right-column[
 Second statement
 ]
+
+---
 
 # Slajd 2
 
