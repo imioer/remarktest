@@ -4,16 +4,14 @@ class: center, middle, remark-code
 
 ---
 
-# Agenda
+# Slide
 
-* Introduction 
--- 
+- bullet 1
+--
 
-* Deep-dive
--- 
+- bullet 2
+--
 
-* ...ad
-
----
+- bullet 3
 
 # Introduction
