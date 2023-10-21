@@ -1,17 +1,34 @@
-class: center, middle, remark-code
-
-# Title
-
+---
+title: "Title"
+author: "Myself"
+date: "`r format(Sys.Date(), '%d.%m.%Y')`"
+output:
+  xaringan::moon_reader:
+    css: ["default"]
+    nature:
+      highlightStyle: dracula
+      highlightLines: true
+      countIncrementalSlides: false
 ---
 
-# Slide
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
 
-- bullet 1
+.left-column[
+  ## Left column title
+]
+.right-column[
+ A whole sentence
+
++ one `Markdown` bullet point
+{{content}}
+
+]
+
 --
 
-- bullet 2
++ a second bullet point
+{{content}}
+
 --
-
-- bullet 3
-
-# Introduction
