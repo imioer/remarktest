@@ -6,15 +6,13 @@ class: center, middle, remark-code
 
 # Agenda
 
-1. Introduction
-   
+* Introduction 
 -- 
 
-3. Deep-dive
-
+* Deep-dive
 -- 
 
-4. ...ad
+* ...ad
 
 ---
 
