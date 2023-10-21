@@ -3,17 +3,17 @@ class: center, middle
 
 ---
 layout: false
-class: split-50
+class: center
 
 .left-column[
-## Levi deo
+  Levi deo
 ]
 .right-column[
-## First statement 
+  Desni deo
 ]
 --
 .right-column[
-## Second statement
+  Nastavak desnog
 ]
 
 ---
