@@ -1,7 +1,7 @@
 ---
 layout: presentation
 title: Default Presentation
-permalink: /default-presentation/
+permalink: /b/
 ---
 
 class: center, middle
