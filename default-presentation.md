@@ -1,7 +1,7 @@
 ---
 layout: presentation
 title: Default Presentation
-permalink: /b/
+permalink: /default-presentation/
 ---
 
 layout: true
